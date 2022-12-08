@@ -1,0 +1,15 @@
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\obj\Debug\net7.0\ServerSideProcesses.csproj.AssemblyReference.cache
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\obj\Debug\net7.0\ServerSideProcesses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\obj\Debug\net7.0\ServerSideProcesses.AssemblyInfoInputs.cache
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\obj\Debug\net7.0\ServerSideProcesses.AssemblyInfo.cs
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\obj\Debug\net7.0\ServerSideProcesses.csproj.CoreCompileInputs.cache
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\bin\Debug\net7.0\ServerSideProcesses.exe
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\bin\Debug\net7.0\ServerSideProcesses.deps.json
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\bin\Debug\net7.0\ServerSideProcesses.runtimeconfig.json
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\bin\Debug\net7.0\ServerSideProcesses.dll
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\bin\Debug\net7.0\ServerSideProcesses.pdb
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\obj\Debug\net7.0\ServerSideProcesses.dll
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\obj\Debug\net7.0\refint\ServerSideProcesses.dll
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\obj\Debug\net7.0\ServerSideProcesses.pdb
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\obj\Debug\net7.0\ServerSideProcesses.genruntimeconfig.cache
+C:\Users\Thoma\Documents\CSE240 Assignments\ChatClientProject\Code\ServerSideProcesses\obj\Debug\net7.0\ref\ServerSideProcesses.dll
